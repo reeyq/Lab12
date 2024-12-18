@@ -1,0 +1,5 @@
+software_timer.c:12:6:shiftRight	16	static
+software_timer.c:24:6:showDigits	16	static
+software_timer.c:38:6:timer_init	8	static
+software_timer.c:50:6:setTimer2	24	static
+software_timer.c:57:6:HAL_TIM_PeriodElapsedCallback	16	static
